@@ -14,13 +14,16 @@ Glocalhub is your go-to online marketplace, uniting businesses, suppliers, and c
 - Strategic product-market alignment for increased profitability. Committed to sustainable global trade and FDI.
 - Driving local positive impacts while achieving global goals. Partner with us for a seamless global-local connection.
 
+
+# Platforms:
+- Web
+
 # Technologies Used:
 - Angular
 - Laravel 8
 - MySql
 
-# Platforms:
-- Web
+
 
 # Website URL:
 https://glocalhub.no/ 
